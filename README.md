@@ -1,2 +1,4 @@
-# hrzzbobcat.github.io
-Website for HRZZ Bobcat project Radiomics Survey
+# hHRZZ Bobcat project
+
+- Demystifying radiomics feature phenotypes for breast cancer classifications
+
